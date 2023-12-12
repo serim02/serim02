@@ -1,8 +1,8 @@
-<img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/>
+<a href="https://rimdevelop.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
 
-  Hello.  :wave:
-
-I'm still lacking, but I'm studying hard to become a proficient front-end developer. :blush:
+  <h1>𝙃𝙚𝙡𝙡𝙤.  :wave:</h1>
+𝘈𝘭𝘵𝘩𝘰𝘶𝘨𝘩 𝘐 𝘢𝘮 𝘴𝘵𝘪𝘭𝘭 𝘭𝘢𝘤𝘬𝘪𝘯𝘨, <br/> 𝘐 𝘢𝘮 𝘢 𝘯𝘦𝘸 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 𝘸𝘩𝘰 𝘪𝘴 𝘴𝘵𝘶𝘥𝘺𝘪𝘯𝘨 𝘩𝘢𝘳𝘥 𝘵𝘰 𝘣𝘦𝘤𝘰𝘮𝘦 𝘢 𝘱𝘳𝘰𝘧𝘪𝘤𝘪𝘦𝘯𝘵 𝘧𝘳𝘰𝘯𝘵-𝘦𝘯𝘥 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳. :blush:  
+<br/> <br/>
 
 :computer:Skills
  
