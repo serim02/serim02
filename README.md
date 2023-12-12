@@ -1,8 +1,9 @@
-<div align="center">
 <img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/>
 
- :wave:
- 
+  Hello.  :wave:
+
+I'm still lacking, but I'm studying hard to become a proficient front-end developer. :blush:
+
 :computer:Skills
  
 <div display="inline">
@@ -24,4 +25,3 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=serim02&theme=flat&column=7)](https://github.com/serim02/)
 -->
 
-</div>
